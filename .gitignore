@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built CSS files
+*.css
+
+# Ignore Tailwind CSS build directory (if using JIT mode)
+.tailwind/
+
+# Ignore development-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore yarn error log
+yarn-error.log
